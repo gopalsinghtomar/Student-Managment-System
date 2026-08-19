@@ -1,0 +1,5 @@
+com/gopal/SearchStudentServlet.class
+com/gopal/ViewStudentServlet.class
+com/gopal/UpdateStudentServlet.class
+com/gopal/AddStudentServlet.class
+com/gopal/DeleteStudentServlet.class
